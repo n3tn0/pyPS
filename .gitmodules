@@ -1,0 +1,3 @@
+[submodule "powerapi"]
+	path = powerapi
+	url = https://github.com/powerapi/powerapi-python.git
